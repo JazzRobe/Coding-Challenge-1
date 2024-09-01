@@ -19,3 +19,4 @@ const productDetails = {
     inStock: true,
 }
 
+console.log(products, productDetails);
