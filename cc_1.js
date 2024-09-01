@@ -20,3 +20,15 @@ const productDetails = {
 }
 
 console.log(products, productDetails);
+
+
+
+// Task 3: Assignment Operators
+
+let accountBalance = 1000.00
+
+console.log(accountBalance+15);
+console.log(accountBalance-45);
+console.log(accountBalance+(15*5));
+console.log(accountBalance%15);
+console.log(accountBalance/15);
