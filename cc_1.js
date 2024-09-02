@@ -46,3 +46,19 @@ console.log(employeeScore2 >= employeeScore1);
 console.log(employeeScore2 <= employeeScore1);
 console.log(employeeScore2 === employeeScore1);
 console.log(employeeScore2 !== employeeScore1);
+
+
+
+// Task 5: Logical Operators
+
+var hasKeyCard = true;
+var hasPermission = true;
+
+console.log(hasKeyCard && hasPermission);
+console.log(hasKeyCard || hasPermission);
+
+console.log(!hasKeyCard && hasPermission);
+console.log(!hasKeyCard || hasPermission);
+
+console.log(hasKeyCard && !hasPermission);
+console.log(hasKeyCard || !hasPermission);
